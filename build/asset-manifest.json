@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4738cc2a.chunk.css",
+    "main.js": "/static/js/main.2aa3c55d.chunk.js",
+    "main.js.map": "/static/js/main.2aa3c55d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dbcfb07f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dbcfb07f.js.map",
+    "static/js/2.4f09bd0b.chunk.js": "/static/js/2.4f09bd0b.chunk.js",
+    "static/js/2.4f09bd0b.chunk.js.map": "/static/js/2.4f09bd0b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4738cc2a.chunk.css.map": "/static/css/main.4738cc2a.chunk.css.map",
+    "static/js/2.4f09bd0b.chunk.js.LICENSE.txt": "/static/js/2.4f09bd0b.chunk.js.LICENSE.txt",
+    "static/media/card-lazy.4d61c96c.jpg": "/static/media/card-lazy.4d61c96c.jpg",
+    "static/media/digital-lazy.0d3cd15d.jpg": "/static/media/digital-lazy.0d3cd15d.jpg",
+    "static/media/hero.fabe87a4.png": "/static/media/hero.fabe87a4.png",
+    "static/media/logo.883d67da.png": "/static/media/logo.883d67da.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbcfb07f.js",
+    "static/js/2.4f09bd0b.chunk.js",
+    "static/css/main.4738cc2a.chunk.css",
+    "static/js/main.2aa3c55d.chunk.js"
+  ]
+}
